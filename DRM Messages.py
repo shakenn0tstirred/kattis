@@ -19,6 +19,6 @@ final = ''
 
 for j in range(len(first_half)):
     final+= letters[(((letters.index(first_half[j]) + rotate_1) % 26 + 
-                      (letters.index(last_half[j]   + rotate_2) % 26) % 26)]
+                      (letters.index(last_half[j])  + rotate_2) % 26) % 26)]
                      
 print(final)
