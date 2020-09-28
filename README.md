@@ -4,7 +4,7 @@ Kattis challenge coding solutions, sorted alphabetically by problem identificati
 
 | Problem description | My solution |
 | --- | --- |
-[10 Kinds of People](open.kattis.com/problems/10kindsofpeople) | ~~[10kindsofpeople.py](10kindsofpeople.py)~~  In progress
+[10 Kinds of People](open.kattis.com/problems/10kindsofpeople) | ~~[10kindsofpeople.py](https://github.com/shakenn0tstirred/kattis/pull/3/commits/b8748405319c5a5be9cfbdf2c0740059d036a6c8)~~  In progress
 [Aaah!](open.kattis.com/problems/aaah) | [aaah.py](aaah.py)
 [Above Average](open.kattis.com/problems/aboveaverage) | [aboveaverage.py](aboveaverage.py)
 [Autori](open.kattis.com/problems/autori) | [autori.py](autori.py)
@@ -28,7 +28,7 @@ Kattis challenge coding solutions, sorted alphabetically by problem identificati
 [No Duplicates](open.kattis.com/problems/nodup) | [nodup.py](nodup.py)
 [Number Fun](open.kattis.com/problems/numberfun) | [numberfun.py](numberfun.py)
 [Oddities](open.kattis.com/problems/oddities) | [oddities.py](oddities.py)
-[Parsing Hex](open.kattis.com/problems/parsinghex) | ~~[parsinghex.py](parsinghex.py]~~  In progress
+[Parsing Hex](open.kattis.com/problems/parsinghex) | ~~[parsinghex.py](https://github.com/shakenn0tstirred/kattis/pull/2/commits/d6a4dbf2c3c4bb5991b859fbb2c5555b0d1b2f62)~~  In progress
 [Piece of Cake!](open.kattis.com/problems/pieceofcake2) | [pieceofcake2.py](pieceofcake2.py)
 [Planina](open.kattis.com/problems/planina) | [planina.py](planina.py)
 [Pot](open.kattis.com/problems/pot) | [pot.py](pot.py)
