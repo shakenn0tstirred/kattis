@@ -4,11 +4,11 @@ Kattis challenge coding solutions, sorted alphabetically by problem identificati
 
 | Problem description | My solution |
 | --- | --- |
-[10 Kinds of People](open.kattis.com/problems/10kindsofpeople) | ~~[10kindsofpeople.py](https://github.com/shakenn0tstirred/kattis/pull/3/commits/b8748405319c5a5be9cfbdf2c0740059d036a6c8)~~  In progress
+[10 Kinds of People](http://open.kattis.com/problems/10kindsofpeople) | ~~[10kindsofpeople.py](https://github.com/shakenn0tstirred/kattis/pull/3/commits/b8748405319c5a5be9cfbdf2c0740059d036a6c8)~~  In progress
 [Aaah!](http://open.kattis.com/problems/aaah) | [aaah.py](aaah.py)
 [Above Average](http://open.kattis.com/problems/aboveaverage) | [aboveaverage.py](aboveaverage.py)
 [Autori](http://open.kattis.com/problems/autori) | [autori.py](autori.py)
-[Bijile](http://open.kattis.com/problems/bijile) | [bijile.py](bijile.py)
+[Bijele](http://open.kattis.com/problems/bijele) | [bijele.py](bijele.py)
 [Solving for Carrots](http://open.kattis.com/problems/carrots) | [carrots.py](carrots.py)
 [Cold-puter Science](http://open.kattis.com/problems/cold) | [cold.py](cold.py)
 [DRM Messsages](http://open.kattis.com/problems/drmmessages) | [drmmessages.py](drmmessages.py)
@@ -16,7 +16,7 @@ Kattis challenge coding solutions, sorted alphabetically by problem identificati
 [Faktor](http://open.kattis.com/problems/faktor) | [faktor.py](faktor.py)
 [Filip](http://open.kattis.com/problems/filip) | [filip.py](filip.py)
 [FizzBuzz](http://open.kattis.com/problems/aaah) | [fizzbuzz.py](fizzbuzz.py)
-[Grass Seeds, Inc.](http://open.kattis.com/problems/grassseed) | [grassseed.py](grassseed.py)
+[Grass Seed, Inc.](http://open.kattis.com/problems/grassseed) | [grassseed.py](grassseed.py)
 [Herman](http://open.kattis.com/problems/herman) | [herman.py](herman.py)
 [Hissing Microphone](http://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone.py](hissingmicrophone.py)
 [Judging Moose](http://open.kattis.com/problems/judgingmoose) | [judgingmoose.py](judgingmoose.py)
