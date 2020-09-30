@@ -14,18 +14,13 @@ for i in range(numTestCases):
   for j in range(numCommands): # Go through each command
     
     direction, command = input().split() # Input both parts of the command
-
-    command = int(command) # Convert numerals into int
+    command = int(command) # Cast number into int
 
     # Recode possible input strings into something that makes more sense
     backward = "bk"
     foreward = "fd"
     left = "lt"
     right = "rt"
-
-    #if j == 0:
-     #   if direction == foreward or direction == backward:
-      #      distance = direction
 
     if direction == foreward:
         tempX = command * math.cos(math.radians(heading)) # Use cosine to find turtle's X coordinate
