@@ -11,6 +11,7 @@ Kattis challenge coding solutions, sorted alphabetically by problem identificati
 [Bijele](http://open.kattis.com/problems/bijele) | [bijele.py](bijele.py)
 [Solving for Carrots](http://open.kattis.com/problems/carrots) | [carrots.py](carrots.py)
 [Cold-puter Science](http://open.kattis.com/problems/cold) | [cold.py](cold.py)
+[Death and Taxes](http://open.kattis.com/problems/deathtaxes) | [deathtaxes.py](deathtaxes.py)
 [DRM Messsages](http://open.kattis.com/problems/drmmessages) | [drmmessages.py](drmmessages.py)
 [I've Been Everywhere, Man](http://open.kattis.com/problems/everywhere) | [everywhere.py](everywhere.py)
 [Faktor](http://open.kattis.com/problems/faktor) | [faktor.py](faktor.py)
