@@ -1,17 +1,12 @@
 import math
-
-# input number of test cases
-numTestCases = int(input())
-
 # Go through each test case
-for i in range(numTestCases):
-  numCommands = int(input())  # Input number of commands within this test case
+for i in range(int(input())):
   x = 0
   y = 0
   heading = 0
   distance = 0
   
-  for j in range(numCommands): # Go through each command
+  for j in range(int(input())): # Go through each command
     
     direction, command = input().split() # Input both parts of the command
     command = int(command) # Cast number into int
