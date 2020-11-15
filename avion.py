@@ -1,20 +1,15 @@
-first  = input()
-second = input()
-third  = input()
-forth  = input()
-fifth  = input()
 answer = ""
 
 
-if "FBI" in first:
+if "FBI" in input():
     answer += "1"
-if "FBI" in second:
+if "FBI" in input():
     answer += "2"
-if "FBI" in third:
+if "FBI" in input():
     answer += "3"
-if "FBI" in forth:
+if "FBI" in input():
     answer += "4"
-if "FBI" in fifth:
+if "FBI" in input():
     answer += "5"
 
 if len(answer) != 0:
