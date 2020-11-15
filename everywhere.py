@@ -1,6 +1,4 @@
-T = int(input())
-
-for i in range(T):
+for i in range(int(input())):
     trips = int(input())
     cities = []
     
