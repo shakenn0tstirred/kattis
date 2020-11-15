@@ -1,6 +1,4 @@
-num_cases = int(input())
-
-for i in range(num_cases):
+for i in range(int(input())):
 
     N, M, L = map(int, input().split())
     agency_list = list() # Need to keep track of each agency
