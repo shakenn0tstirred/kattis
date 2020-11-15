@@ -1,6 +1,4 @@
-n = int(input())
-
-for i in range(n):
+for i in range(int(input())):
     r, e, c = map(int, input().split())
 
     cost = e - c
