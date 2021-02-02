@@ -1,3 +1,7 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 # Brute force method used to keep track of adjustments made to maintain a full chess set.
 k, q, r, b, kn, p = map(int, input().split())
 kcount, qcount, rcount, bcount, kncount, pcount = 0, 0, 0, 0, 0, 0
